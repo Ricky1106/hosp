@@ -9,4 +9,8 @@ public class Version {
     public void method2(){
 
     }
+
+    public void method3(){
+
+    }
 }
